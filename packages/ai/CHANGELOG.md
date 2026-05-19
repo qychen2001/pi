@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added SiliconFlow provider with international (`siliconflow`, `api.siliconflow.com`) and China (`siliconflow-cn`, `api.siliconflow.cn`) endpoints using OpenAI-compatible API.
+
 ## [0.75.3] - 2026-05-18
 
 ## [0.75.2] - 2026-05-18
