@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added SiliconFlow provider with international (`siliconflow`, `api.siliconflow.com`) and China (`siliconflow-cn`, `api.siliconflow.cn`) endpoints.
+
 ### Fixed
 
 - Fixed AgentSession retry, compaction, and event settlement to use the awaited agent lifecycle instead of a separate event queue, and added `willRetry` to `agent_end` session events.

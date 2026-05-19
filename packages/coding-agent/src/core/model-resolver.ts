@@ -44,6 +44,8 @@ export const defaultModelPerProvider: Record<KnownProvider, string> = {
 	"xiaomi-token-plan-cn": "mimo-v2.5-pro",
 	"xiaomi-token-plan-ams": "mimo-v2.5-pro",
 	"xiaomi-token-plan-sgp": "mimo-v2.5-pro",
+	siliconflow: "zai-org/GLM-5.1",
+	"siliconflow-cn": "Pro/zai-org/GLM-5.1",
 };
 
 export interface ScopedModel {
